@@ -1,0 +1,29 @@
+html body {
+    background-color: lightgray;
+}
+
+#bio-image {
+    margin-right: 5px;
+}
+
+#footer {
+    background-color: #666666;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* for some reason, I just can not get borders to work. I have no clue why, but I had trouble with it in my Basic-Portfolio as well. 
+(and probably will in my Responsive-Portfolio as well) */
+
+#main-content {
+    background-color: #ffffff;
+    padding: 10px 20px 10px 20px;
+    margin-bottom: 50px;
+    border-color: #666666;
+    border-width: 5px;
+}
+
+h1 {
+    color: #4aaaa5;
+}
