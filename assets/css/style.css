@@ -27,3 +27,44 @@ html body {
 h1 {
     color: #4aaaa5;
 }
+
+.thummbnail-div {
+    margin: 2px;
+}
+
+.thumbnail-img:hover {
+    opacity: 0.7;
+    }
+
+.title-div a {
+color: #ffffff;
+}
+
+.title-div a:hover {
+    color: #ffffff;
+    }
+
+.title-div {
+    background-color: #4aaaa5;
+    text-align: center;
+    padding: 2px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    vertical-align: middle;
+}
+
+
+
+
+
+
+/* I want to do a hover effect where the images darken slightly, but can't quite figure out how to get it work. Will play with it more later
+
+.thumbnail-div:hover {
+    background-color: black;
+    }
+
+
+*/
+
+
